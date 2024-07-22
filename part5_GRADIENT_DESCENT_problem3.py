@@ -1,8 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 ##############################################################
-## here it is code in SCIKIT LEARN
+# the code in SCIKIT LEARN
 ##############################################################
 
 import numpy as np 
